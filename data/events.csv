@@ -1,0 +1,11 @@
+Date,Country,Category,Severity,Actor,Target,Description,Impact_Score,Confidence
+2026-01-02,China,Geopolitical,High,PLA Navy,Taiwan Strait,Large scale naval exercise near Taiwan,85,High
+2026-01-05,China,Cyber,High,Unknown State Actor,Government Networks,Cyber espionage allegations reported,82,Medium
+2026-01-08,Russia,Geopolitical,High,Russian Military,Eastern Europe,Military deployment exercise,88,High
+2026-01-10,India,Cyber,Medium,Unknown Actors,Critical Infrastructure,Cyber incident affecting infrastructure,72,Medium
+2026-01-12,USA,Economic,Medium,US Government,Technology Sector,AI export restrictions announced,70,High
+2026-01-15,UK,Geopolitical,Low,UK Government,Defense Sector,Defense strategy review published,55,High
+2026-01-17,Iran,Geopolitical,High,Iranian Military,Regional Rivals,Missile capability announcement,84,Medium
+2026-01-20,Israel,Geopolitical,High,Israeli Defense Forces,Regional Threats,Regional security operation conducted,83,High
+2026-01-24,North Korea,Geopolitical,Critical,North Korean Military,Regional Security,Ballistic missile test reported,95,High
+2026-01-26,Taiwan,Geopolitical,High,Taiwan Armed Forces,National Defense,Military readiness exercise,80,High
